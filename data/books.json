@@ -1,0 +1,62 @@
+{
+  "1": {
+    "isbn": "9780142437230",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "reviews": {}
+  },
+  "2": {
+    "isbn": "9780061120084",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": {}
+  },
+  "3": {
+    "isbn": "9780451524935",
+    "title": "1984",
+    "author": "George Orwell",
+    "reviews": {}
+  },
+  "4": {
+    "isbn": "9780743273565",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "reviews": {}
+  },
+  "5": {
+    "isbn": "9780316769174",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "reviews": {}
+  },
+  "6": {
+    "isbn": "9780545162074",
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "reviews": {}
+  },
+  "7": {
+    "isbn": "9780439023481",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "reviews": {}
+  },
+  "8": {
+    "isbn": "9780307277671",
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "reviews": {}
+  },
+  "9": {
+    "isbn": "9780547928227",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "reviews": {}
+  },
+  "10": {
+    "isbn": "9780062315007",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "reviews": {}
+  }
+}
